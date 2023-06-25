@@ -4,7 +4,7 @@ I'm a Data Scientist currently focusing on open-source projects.
 
 ## 🔭 Currently Working on ...
 
-I'm currently contributing to two open-source libraries designed to streamline and simplify various aspects of data science. Our aim is to empower users, regardless of their technical background, to harness the power of data for analysis, modeling, and decision-making.
+I'm currently contributing to three open-source libraries designed to streamline and simplify various aspects of data science. Our aim is to empower users, regardless of their technical background, to harness the power of data for analysis, modeling, and decision-making.
 
 ### 🤝 Support our projects by giving a star ⭐
 
@@ -13,17 +13,29 @@ I'm currently contributing to two open-source libraries designed to streamline a
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/falcon_black.svg" >
   <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/falcon_white.svg">
-  <img alt="Hashnode logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/falcon_black.svg" height = "250">
+  <img alt="Falcon logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/falcon_black.svg" height = "250">
 </picture>
 </p>
 
 Falcon is a Python library designed for effortless training of production-ready machine learning models. Our primary objective is to simplify both the training process and the deployment of models to any target platform. To achieve this, we have incorporated native support for exporting the entire pipelines into the ONNX format, enabling seamless deployment of models across various environments. With Falcon, training and deploying your models becomes as easy as a single line of code.
 
-
 🌐 Visit the project: [Falcon AutoML](https://github.com/OKUA1/falcon)
 
 📝 Check out the Medium article: [Medium Article: Falcon AutoML](https://medium.com/@o.kostromin/effortless-model-training-and-deployment-using-falcon-ml-onnx-and-fastapi-338a0984e0b8)
 
+<hr/>
+
+## 🦊 Agent Dingo
+
+<p align="center">
+<picture>
+  <img src="https://github.com/OKUA1/agent_dingo/blob/main/logo.png?raw=true" alt="AgentDingo" width="250" height = "250">
+</picture>
+</p>
+
+A microframework for creating simple conversational AI agents.
+
+🌐 Visit the project: [Agent Dingo](https://github.com/OKUA1/agent_dingo)
 
 <hr/>
 
@@ -33,7 +45,7 @@ Falcon is a Python library designed for effortless training of production-ready 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/skllm_color.svg" >
   <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/skllm_white.svg">
-  <img alt="Hashnode logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/skllm_color.svg" height="150">
+  <img alt="Scikit-LLM logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/skllm_color.svg" height="150">
 </picture>
 </p>
 
