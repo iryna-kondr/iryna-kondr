@@ -37,6 +37,8 @@ A microframework for creating simple conversational AI agents.
 
 🌐 Visit the project: [Agent Dingo](https://github.com/OKUA1/agent_dingo)
 
+📝 Check out the Medium article: [Medium Article: Agent Dingo](https://medium.com/@iryna230520/dingo-seamlessly-integrate-python-functions-into-chatgpt-6e3237f09824)
+
 <hr/>
 
 ## 🚀 Scikit-LLM
