@@ -8,6 +8,24 @@ I'm currently contributing to three open-source libraries designed to streamline
 
 ### 🤝 Support our projects by giving a star ⭐
 
+## 🚀 Scikit-LLM
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_color.svg" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_white.svg">
+  <img alt="Scikit-LLM logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_color.svg" height = "220">
+</picture>
+</p>
+
+Scikit-LLM is a collection of scikit-learn compatible wrappers around large language models, allowing to treat them as regular sklearn estimators. 
+
+🌐 Visit the project: [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
+
+📝 Check out the Medium article: [Medium Article: Scikit-LLM](https://medium.com/@iryna230520/scikit-llm-nlp-with-chatgpt-in-scikit-learn-733b92ab74b1)
+
+<hr/>
+
 ## 🦅 Falcon AutoML 
 <p align="center">
 <picture>
@@ -38,24 +56,6 @@ A microframework for creating simple conversational AI agents.
 🌐 Visit the project: [Agent Dingo](https://github.com/OKUA1/agent_dingo)
 
 📝 Check out the Medium article: [Medium Article: Agent Dingo](https://medium.com/@iryna230520/dingo-seamlessly-integrate-python-functions-into-chatgpt-6e3237f09824)
-
-<hr/>
-
-## 🚀 Scikit-LLM
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/skllm_color.svg" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/skllm_white.svg">
-  <img alt="Scikit-LLM logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/skllm_color.svg" height="150">
-</picture>
-</p>
-
-Scikit-LLM is a collection of scikit-learn compatible wrappers around large language models, allowing to treat them as regular sklearn estimators. 
-
-🌐 Visit the project: [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
-
-📝 Check out the Medium article: [Medium Article: Scikit-LLM](https://medium.com/@iryna230520/scikit-llm-nlp-with-chatgpt-in-scikit-learn-733b92ab74b1)
 
 <hr/>
 
