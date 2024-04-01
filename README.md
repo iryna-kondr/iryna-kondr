@@ -47,7 +47,7 @@ Falcon is a Python library designed for effortless training of production-ready 
 </picture>
 </p>
 
-A microframework for creating simple conversational AI agents.
+Dingo is a lightweight microframework designed for streamlining the development of LLM pipelines and autonomous agents.
 
 🌐 Visit the project: [Agent Dingo](https://github.com/OKUA1/agent_dingo)
 
