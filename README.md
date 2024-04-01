@@ -12,9 +12,7 @@ I'm currently contributing to three open-source libraries designed to streamline
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_color.svg" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_white.svg">
-  <img alt="Scikit-LLM logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/e3a5e7759f508a145fa35b204ed363164adabeca/skllm_icon_color.svg" height = "220">
+  <img alt="Scikit-LLM logo" src="https://gist.githubusercontent.com/OKUA1/55e2fb9dd55673ec05281e0247de6202/raw/41063fcd620d9091662fc6473f9331a7651b4465/scikit-llm.svg" height = "175">
 </picture>
 </p>
 
@@ -29,9 +27,7 @@ Scikit-LLM is a collection of scikit-learn compatible wrappers around large lang
 ## 🦅 Falcon AutoML 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/falcon_black.svg" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/falcon_white.svg">
-  <img alt="Falcon logo" src="https://gist.githubusercontent.com/OKUA1/43d26803ba9cccd1ea478bb491fd9b83/raw/c02f02a0c570360cf56897cf9d3165a7ad909b3f/falcon_black.svg" height = "250">
+   <img alt="Falcon logo" src="https://gist.githubusercontent.com/OKUA1/55e2fb9dd55673ec05281e0247de6202/raw/41063fcd620d9091662fc6473f9331a7651b4465/falcon.svg" height = "175">
 </picture>
 </p>
 
@@ -47,7 +43,7 @@ Falcon is a Python library designed for effortless training of production-ready 
 
 <p align="center">
 <picture>
-  <img src="https://github.com/OKUA1/agent_dingo/blob/main/logo.png?raw=true" alt="AgentDingo" width="250" height = "250">
+  <img alt="AgentDingo logo" src="https://gist.githubusercontent.com/OKUA1/55e2fb9dd55673ec05281e0247de6202/raw/41063fcd620d9091662fc6473f9331a7651b4465/dingo.svg" height = "175">
 </picture>
 </p>
 
